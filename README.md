@@ -38,7 +38,7 @@ The t-SNE plot below shows the learned representations of the SimCLR backbone. T
 ### 1. Prerequisites
 Clone the repository and install the required dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Unsupervised-SimCLR-Robustness.git](https://github.com/YOUR_USERNAME/Unsupervised-SimCLR-Robustness.git)
+git clone [https://github.com/Aaditya-2006/Unsupervised-SimCLR-Robustness.git](https://github.com/YOUR_USERNAME/Unsupervised-SimCLR-Robustness.git)
 cd Unsupervised-SimCLR-Robustness
 pip install -r requirements.txt
 ```
