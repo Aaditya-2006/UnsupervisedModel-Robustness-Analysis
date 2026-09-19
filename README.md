@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 2. Run the Demo
 To test the model on your own images, run:
 ```bash
-python imgclassfier_demos.py
+python imgclassifier_demos.py
 ```
 
 ### 3. Reproduce the training
